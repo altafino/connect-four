@@ -49,6 +49,8 @@ Challenge a surprisingly tough AI opponent in this classic game of Connect Four,
 
 This project demonstrates several core programming and AI concepts using Go.
 
+![image](https://github.com/user-attachments/assets/fa1b032b-5762-487b-9d0b-191978165010)
+
 ### Core Game Logic (`main.go`)
 
 * **Board Representation:** A 2D slice (`[][]int`) represents the 6x7 game board. Constants `EMPTY`, `PLAYER1`, and `PLAYER2` denote the state of each cell.
